@@ -1,28 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan&family=Open+Sans&display=swap');
 
 h1 {
-	color: #26428b;
+	color: #FF7FAD;
 	font-family: 'League Spartan', sans-serif;
 	text-align: left;
 }
 
 h2{
-	color: #26428b;
+	color: #FF7FAD;
 	font-family: 'League Spartan', sans-serif;
 	text-align: left;
 	font-weight: normal;
 }
 
 a:link {
-	color: #26428b;
+	color: #FF7FAD;
 }
 
 a:visited {
-	color: #26428b;
+	color: #FF7FAD;
 }
 
 body {
-  color: #26428b;
+  color: #FF7FAD;
 	font-family: 'Open Sans', sans-serif;
 	text-align: left;
 	background-color: #191919;
@@ -30,7 +30,7 @@ body {
 }
 
 button {
-	background-color: #26428b;
+	background-color: #FF7FAD;
 	border: none;
 	color: white;
 	padding: 5px 5px;
