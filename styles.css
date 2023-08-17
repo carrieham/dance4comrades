@@ -1,17 +1,42 @@
-@import url('https://fonts.googleapis.com/css2?family=League+Spartan&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=League+Spartan:wght@400;600;700;800&family=Lobster&family=Open+Sans&family=Tilt+Prism&display=swap');
 
 h1 {
 	color: #FF7FAD;
 	font-family: 'League Spartan', sans-serif;
-	text-align: left;
+	text-align: center;
+	font-size: 97px;
+	font-weight: 700;
 }
 
 h2{
 	color: #FF7FAD;
 	font-family: 'League Spartan', sans-serif;
-	text-align: left;
-	font-weight: normal;
+	text-align: center;
+	font-size: 67px;
+	font-weight: 700;
 }
+
+h3{
+	color: #C15D57;
+	font-family: 'Lobster', sans-serif;
+	text-align: center;
+	font-size: 50px;
+}
+
+h4{
+	color: #C15D57;
+	font-family: 'Barriecito', sans-serif;
+	text-align: center;
+	font-size: 50px;
+}
+
+h5{
+	color: #C15D57;
+	font-family: 'Tilt+Prism', sans-serif;
+	text-align: center;
+	font-size: 50px;
+}
+
 
 a:link {
 	color: #FF7FAD;
@@ -22,24 +47,24 @@ a:visited {
 }
 
 body {
-  color: #FF7FAD;
+  color: #C15D57;
 	font-family: 'Open Sans', sans-serif;
-	text-align: left;
+	text-align: center;
 	background-color: #191919;
 	
 }
 
 button {
-	background-color: #FF7FAD;
+	background-color: #C15D57;
 	border: none;
 	color: white;
 	padding: 5px 5px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 12px;
+	font-size: 20px;
 	border-radius: 8px;
-	font-family: 'League Spartan', sans-serif;
+	font-family: 'Lobster', sans-serif;
 }
 
 img {
