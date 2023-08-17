@@ -1,14 +1,14 @@
-@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/ibm-plex-mono.min.css");
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan&family=Open+Sans&display=swap');
 
 h1 {
 	color: #26428b;
-	font-family: 'IBM Plex Mono', sans-serif;
+	font-family: 'League Spartan', sans-serif;
 	text-align: left;
 }
 
 h2{
 	color: #26428b;
-	font-family: 'IBM Plex Mono', sans-serif;
+	font-family: 'League Spartan', sans-serif;
 	text-align: left;
 	font-weight: normal;
 }
@@ -23,10 +23,9 @@ a:visited {
 
 body {
   color: #26428b;
-	font-family: 'IBM Plex Mono', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	text-align: left;
-	max-width: 600px;
-	margin-left: 25px;
+	background-color: #191919;
 	
 }
 
@@ -40,7 +39,7 @@ button {
 	display: inline-block;
 	font-size: 12px;
 	border-radius: 8px;
-	font-family: 'IBM Plex Mono', sans-serif;
+	font-family: 'League Spartan', sans-serif;
 }
 
 img {
