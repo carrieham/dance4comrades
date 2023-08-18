@@ -17,17 +17,18 @@ h2{
 }
 
 h3{
-	color: #FF7FAD;
+	color: #C15D57;
 	font-family: 'Lobster', sans-serif;
 	text-align: center;
 	font-size: 35px;
 }
 
 h4{
-	color: #753A99;
-	font-family: 'Lobster', sans-serif;
+	color: #C15D57; 
+	font-family: 'League Spartan', sans-serif;
 	text-align: center;
-	font-size: 40px;
+	font-size: 25px;
+	font-weight: 700;
 }
 
 h5{
