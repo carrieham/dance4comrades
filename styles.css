@@ -37,6 +37,13 @@ h5{
 	font-size: 20px;
 }
 
+h6 {
+  color: #753A99;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
 
 a:link {
 	color: #FF7FAD;
