@@ -54,6 +54,15 @@ h8{
 	font-weight: 700;
 }
 
+h9 {
+  color: #FF7FAD;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	font-style: italic;
+}
+
 a:link {
 	color: #FF7FAD;
 }
