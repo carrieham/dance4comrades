@@ -9,10 +9,10 @@ h1 {
 }
 
 h2{
-	color: #C15D57;
+	color: #6E4045; 
 	font-family: 'League Spartan', sans-serif;
 	text-align: center;
-	font-size: 50px;
+	font-size: 30px;
 	font-weight: 700;
 }
 
@@ -47,7 +47,7 @@ a:visited {
 }
 
 body {
-  color: #FF7FAD;
+  color: #F48591;
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
 	background-color: #191919;
@@ -66,8 +66,4 @@ button {
 	font-size: 20px;
 	border-radius: 8px;
 	font-family: 'League Spartan', sans-serif;
-}
-
-img {
-	height:500px;
 }
